@@ -5,7 +5,7 @@ Dies ist ein Discord Bot, der mit der Python Discord API entwickelt wurde. Er ve
 ## Funktionsweise
 
 1. Der Bot wird gestartet und verbindet sich mit dem Discord-API-Server.
-2. Der Bot setzt seinen Status auf "online" und ändert seine Aktivität auf "Deine Entscheidung spielen".
+2. Der Bot setzt seinen Status auf "online" und ändert seine Aktivität auf "Deine Entscheidung".
 3. Der Bot synchronisiert das Kommandobaum-Objekt mit dem Server, dessen ID in der Variable "guild" angegeben ist.
 4. Wenn der Befehl "role" im Chat eingegeben wird, sendet der Bot eine Nachricht, in der die erwähnte Rolle angezeigt wird.
 5. Der Bot fügt dann der Rolle jedes Mitglied im Server hinzu und zählt die Anzahl der hinzugefügten Mit
