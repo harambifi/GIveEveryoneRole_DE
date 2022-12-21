@@ -25,4 +25,4 @@ Dies ist ein Discord Bot, der mit der Python Discord API entwickelt wurde. Er ve
 
 ## Verwendung
 
-Um den Bot zu verwenden, tippe einfach `!role @Rolle` in einen Chat-Kanal, wobei `@Rolle` durch die erwünschte Rolle ersetzt werden sollte. Der Bot wird dann jedem Mitglied im Server die Rolle hinzufügen und eine Nachricht senden, die die Anzahl der hinzugefügten Mitglieder anzeigt.
+Um den Bot zu verwenden, tippe einfach `/role @Rolle` in einen Chat-Kanal, wobei `@Rolle` durch die erwünschte Rolle ersetzt werden sollte. Der Bot wird dann jedem Mitglied im Server die Rolle hinzufügen und eine Nachricht senden, die die Anzahl der hinzugefügten Mitglieder anzeigt.
